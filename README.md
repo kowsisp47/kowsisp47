@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋 I'm Kowsalya
 
-<!--
-**kowsisp47/kowsisp47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student (CGPA: 8.40/10)
+💻 Python Developer | Machine Learning Enthusiast
+📍 Madurai, Tamil Nadu
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Machine Learning
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- MySQL
+- MongoDB
+- Data Structures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+🔹 CNN Road Surface Defect Detection
+🔹 RedBus Frontend Web Application
+🔹 Shop Accounting System
+
+## Certifications
+- MongoDB Basics – MongoDB Inc.
+- Hands-on Python – Reccsar Pvt Ltd
+- Microsoft Learnathon – AI & Cybersecurity
+- Coursera – Introduction to UX Design
+
+## Contact
+📧 Email: kowsisp47@gmail.com
+🔗 LinkedIn: https://www.linkedin.com
